@@ -268,8 +268,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dxUejnq1h-a-5CKgd5hV" name="Página-4">
-    <mxGraphModel dx="1869" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="dxUejnq1h-a-5CKgd5hV" name="caso de uso medico">
+    <mxGraphModel dx="1812" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -426,14 +426,14 @@
         <mxCell id="OxlIPol-EpiUpYDClFVF-53" value="Médico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kpb4BITvTxBy64YhrTCr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.535;entryY=-0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OxlIPol-EpiUpYDClFVF-36" target="OxlIPol-EpiUpYDClFVF-24">
+        <mxCell id="kpb4BITvTxBy64YhrTCr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.535;entryY=-0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OxlIPol-EpiUpYDClFVF-36" target="OxlIPol-EpiUpYDClFVF-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ON1-UMU1SGBH6fXoV0Xg" name="Página-5">
-    <mxGraphModel dx="1869" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="ON1-UMU1SGBH6fXoV0Xg" name="diagramas de classe medíca">
+    <mxGraphModel dx="1812" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,8 +640,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LX240RGtP36l8AOR957_" name="Página-6">
-    <mxGraphModel dx="1489" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="LX240RGtP36l8AOR957_" name="Sistema">
+    <mxGraphModel dx="985" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
